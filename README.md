@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, world 🌍
 
-<!--
-**Roger-Pope721/Roger-Pope721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Roger-Pope721**, a generalist engineer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Lifelong learner
+- 🌱 Always learning new things
+- 💬 Ask me anything about code
+
+## Tech
+
+`Svelte` `Go` `Docker` `Express` `Protobuf` `Haskell`
+
+---
+
+_Prs > issues._
